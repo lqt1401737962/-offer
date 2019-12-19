@@ -1,0 +1,3 @@
+四、简述StringBuilder类与String类的区别。
+       StringBuilder:是字符串缓冲区 是一个容器是线程不安全的,可用用来 拼接字符串
+       String:  是字符串 是不可改变的;想要改变只能创建新的

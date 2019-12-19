@@ -1,0 +1,7 @@
+四、简述Comparable和Comparator两个接口的区别。
+  Comparable: 强行对实现它某一个类的对象进行排序.
+                类的compareTo方法被称为自然比较法
+
+  Comparator:强行对对象进行整体排序
+                arrays.sort
+                collections.sort

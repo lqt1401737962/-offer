@@ -1,0 +1,6 @@
+问题：请列举常见异常，并说明产生原因。
+    nullPointerException:空指针异常
+        当应用试图在要求使用对象的地方使用了null时，抛出该异常。
+        譬如：调用null对象的实例方法、访问null对象的属性、计算null对象的长度等等。
+    ArrayIndexOutOfBoundsException:数组索引越界异常。
+        当访问数组的索引超过最大索引,

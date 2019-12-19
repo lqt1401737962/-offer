@@ -1,0 +1,45 @@
+1.举例：
+问题：根据给出的相应代码，分析可能产生的结果。
+public static void main(String[]args){
+
+ String str=null;
+System.out.println(str.length());
+
+}
+//当 访问当前的引用类型 被赋予null时 会报出NullPointerException
+2.
+public static void main(String[]args){
+int arr[]={1,2};
+System.out.println(arr[2]);
+}
+//当访问的数组 索引大于等于数组的长度时 ,会报出数组索引越界异常
+
+3.举例：
+public static void main(String[]args){
+
+System.out.println(1/0);
+}
+//当整数0做分母时,会报出 算术运算异常ArithmeticException:/by zero
+4.举例：
+public static void main(String[]args){
+System.out.println(Integer.parseInt("itcast"));
+}
+
+答：
+会报出 数字格式化异常  NumberFormatException
+
+
+5.举例：
+public static void main(String[] args) {
+    SimpleDateFormat format = new SimpleDateFormat("yyyy-mm-dd");
+
+    try {
+        Date date = format.parse("2018-04-03");
+        System.out.println("程序正常");
+
+    } catch (ParseException e) {
+        System.out.println("程序异常");
+    }
+}
+
+//结果打印程序正常  因为try中执行语句正常无异常  不会执行catch语句
