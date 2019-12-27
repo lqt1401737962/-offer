@@ -17,9 +17,9 @@
 项目:[l乐优商城](https://github.com/lqt1401737962/Leyou-Mall)
 
 
-|书籍&nbsp;| &nbsp;算法(主要做)&nbsp; | 数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;|编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
-| :---: | :----: | :---: | :----: | :----: |:----: |
-|[:book:](#memo-书籍)| [:pencil:](#pencil2-算法) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)|[:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
+|书籍&nbsp;| &nbsp;算法(主要做)&nbsp; | 数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;|编码实践| 面试 | 后记 |
+| :---: | :----: | :---: | :----: | :----: |:----: | :---: |
+|[:book:](#memo-书籍)| [:pencil:](#pencil2-算法) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)|[:watermelon:](#watermelon-编码实践) |[:japan:](#面试需要)| [📝](#memo-后记) |
 
 <br>
 
@@ -42,6 +42,14 @@
  [牛客网左神基础班](https://github.com/lqt1401737962/Java-Notes/tree/master/algorithm/NowcoderBasicAlgorithm)
 
 ## :floppy_disk: 数据库
+
+
+
+
+
+##:japan:面试要用基础知识
+
+[HashMap]()
 
 ---
 **:hammer_and_wrench:正则表达式**
