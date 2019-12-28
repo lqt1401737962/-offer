@@ -1,5 +1,6 @@
-# Try Hard To  get offer
-### 学习Java
+# Java学习旅程
+
+### 
 :cowboy_hat_face:cool
 
 :walking:
@@ -56,9 +57,25 @@
 
 [正则](https://github.com/lqt1401737962/Java-Notes/tree/master/regular%20expression)
 
-----
+
+
+
+
+---
+
+## 总结归纳
+
+[经典的排序算法]()
+
+[二叉树的遍历递归非递归]()
+
+
+
+---
 
 [自己写的一些读书笔记和总结]()
+
+
 
 [鸡汤(Dream)](https://github.com/lqt1401737962/Java-Notes/blob/master/somethingJustIWrite/Dream%E6%BC%94%E8%AE%B2%E7%A8%BF.md)
 
