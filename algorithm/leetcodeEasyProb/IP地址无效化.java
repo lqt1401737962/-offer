@@ -11,8 +11,8 @@ package leetcode;
  */
 public class IP地址无效化 {
     public static String defangIPAddr(String address){
-       //return address.replaceAll("\\.","[.]");
-        return address.replace(".","[.]");
+       return address.replaceAll("\\.","[.]");
+       // return address.replace(".","[.]");
     }
 
     public static void main(String[] args) {
