@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="064ed41a-2d9d-4d88-a2e9-20077a0169d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot-08-redis" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1asVysvYDaU7uX46aCpBovQiApa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RunManager" selected="JUnit.Springboot07RedisApplicationTests.testUtils">
+    <configuration name="Springboot07RedisApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-08-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qitong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qitong" />
+      <option name="MAIN_CLASS_NAME" value="com.qitong.Springboot07RedisApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07RedisApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-08-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qitong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qitong" />
+      <option name="MAIN_CLASS_NAME" value="com.qitong.Springboot07RedisApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07RedisApplicationTests.testUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-08-redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qitong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qitong" />
+      <option name="MAIN_CLASS_NAME" value="com.qitong.Springboot07RedisApplicationTests" />
+      <option name="METHOD_NAME" value="testUtils" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot07RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-08-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qitong.Springboot07RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot07RedisApplicationTests.testUtils" />
+        <item itemvalue="JUnit.Springboot07RedisApplicationTests.test" />
+        <item itemvalue="JUnit.Springboot07RedisApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="064ed41a-2d9d-4d88-a2e9-20077a0169d6" name="Default Changelist" comment="" />
+      <created>1587524546045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587524546045</updated>
+      <workItem from="1587524550767" duration="2000" />
+      <workItem from="1587524664589" duration="3487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1587526361756">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1587526361756" />
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1587528698317">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587528698317" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1587528698317">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587528698317" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1587528698317">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587528698317" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1587528698317">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587528698317" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qitong/Springboot07RedisApplicationTests.java</url>
+          <line>17</line>
+          <properties class="com.qitong.Springboot07RedisApplicationTests" method="contextLoads">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/qitong/Springboot07RedisApplicationTests.java</url>
+          <line>31</line>
+          <properties class="com.qitong.Springboot07RedisApplicationTests" method="testUtils">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

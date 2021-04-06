@@ -1,0 +1,4 @@
+问题：
+请描述Thread类中的start()方法与run()方法的区别。
+    Thread类 中run不开启线程,只是对象调用方法
+    start 会开启线程 并让jvm中的调用run方法在开启的线程中

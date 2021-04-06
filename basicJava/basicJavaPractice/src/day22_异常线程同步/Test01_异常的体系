@@ -1,0 +1,12 @@
+1.	请描述异常的继承体系
+    继承Throwable这个类   一直子类  java.lang.Error和java.lang.Exception
+    尔Exception又分为运行期异常和编译期异常RuntimeException,CheckException
+
+2.	请描述你对错误(Error)的理解
+    Error是指系统级别的错误,通常是不可修复的,只能通过修改代码避免错误的产生
+
+3.	请描述你对异常(Expection的理解)
+    Exception是可以修复的,通过修改代码就可改正的,但一定要处理
+
+4.	请描述你对运行时异常(RuntimeException)的理解
+    是指在编译期没有异常,但在运行时会产生异常

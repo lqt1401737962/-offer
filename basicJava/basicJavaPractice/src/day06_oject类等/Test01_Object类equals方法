@@ -1,0 +1,5 @@
+一、简述String类中的equals方法与Object类中的equals方法的不同点。
+
+    Object 类中的equals是比较 两个对象的地址值是否为同一个地址值;
+
+    String 类中 的equals是比较俩个对象的内容是否相同;

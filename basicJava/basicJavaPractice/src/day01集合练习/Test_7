@@ -1,0 +1,4 @@
+七、请简述迭代器的实现原理
+   首先遍历集合时,会调用Iterator   中的hasNext  如果有则next取出
+   Iterator 中的指针索引 首先会指向第一个元素,如果调用next 会指针向后移动一位'
+      直到hasNext返回false停止

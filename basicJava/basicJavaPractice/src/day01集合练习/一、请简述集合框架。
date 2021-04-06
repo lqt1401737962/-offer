@@ -1,0 +1,13 @@
+一、请简述集合框架。
+集合
+     collection 和  map
+     //collection :
+     为单列集合(单身),,重要接口有list,set
+        list 为可以重读切有顺序的
+        set  为无序且不可重复
+     常见ArrayList   LikedList
+     HashSet   TreeSet
+
+     //Map
+     为双列集合  (情侣)成对出现
+     HashMap  proprity等

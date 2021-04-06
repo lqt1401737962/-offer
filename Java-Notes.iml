@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/algorithm" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="03-链表" />
+    <orderEntry type="module" module-name="剑指offer" />
+    <orderEntry type="module" module-name="04-递归" />
+    <orderEntry type="module" module-name="06-二叉搜索树" />
+    <orderEntry type="module" module-name="04-栈" />
+    <orderEntry type="module" module-name="13-优先级队列" />
+    <orderEntry type="module" module-name="02-并查集" />
+    <orderEntry type="module" module-name="08-动态规划" />
+    <orderEntry type="module" module-name="07-AVL树" />
+    <orderEntry type="module" module-name="06-贪心" />
+    <orderEntry type="module" module-name="01-排序" />
+    <orderEntry type="module" module-name="11-哈希表" />
+    <orderEntry type="module" module-name="15-二叉树的非递归遍历" />
+    <orderEntry type="module" module-name="03-图" />
+    <orderEntry type="module" module-name="之前写的LeetCode" />
+    <orderEntry type="module" module-name="12-堆" />
+    <orderEntry type="module" module-name="05-队列" />
+    <orderEntry type="module" module-name="algorithm" />
+    <orderEntry type="module" module-name="09-布隆过滤器" />
+    <orderEntry type="module" module-name="10-跳表" />
+    <orderEntry type="module" module-name="01-复杂度" />
+    <orderEntry type="module" module-name="LeetCode" />
+    <orderEntry type="module" module-name="10-映射" />
+    <orderEntry type="module" module-name="06-二叉搜索树2" />
+    <orderEntry type="module" module-name="05-回溯" />
+    <orderEntry type="module" module-name="02-动态数组" />
+    <orderEntry type="module" module-name="14-Trie" />
+    <orderEntry type="module" module-name="08-红黑树" />
+    <orderEntry type="module" module-name="07-分治" />
+    <orderEntry type="module" module-name="09-集合" />
+  </component>
+</module>

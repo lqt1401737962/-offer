@@ -1,0 +1,7 @@
+问题：请描述在线程的生命周期中， 有几种状态呢 ?
+        1.初始阶段(New)
+        2.运行阶段(Runnable)
+        3.阻塞阶段(Blocked)
+        4.等待阶段(Waiting)
+        5.等待超时(Timed_Waiting)
+        6.终止(Terminated)
