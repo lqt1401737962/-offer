@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06bc0b14-a0e0-4979-9ea9-412e8a624344" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Environment/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cq5O2g9VGme1MydjYWSjk2xWrl" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Java-Notes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="二刷.common" />
+      <recent name="高频题" />
+      <recent name="tools" />
+      <recent name="DFS" />
+      <recent name="tools.file" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\IDEA-Workspace\basic_codeJava\恋上\剑指offer\src\二刷" />
+      <recent name="D:\Project\IDEA-Workspace\basic_codeJava\恋上\LeetCode\src\tools" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="is" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="整数加加问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多线程.整数加加问题" />
+      <module name="多线程和数据库" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="二刷.Test" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="二刷.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qitong.TestClass" />
+      <module name="剑指offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qitong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="各种不同" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="广联达.各种不同" />
+      <module name="大厂算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="广联达.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="打怪升级" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="贝壳找房.打怪升级" />
+      <module name="大厂算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="贝壳找房.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="生产者和消费者老版" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多线程.生产者和消费者老版" />
+      <module name="多线程和数据库" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="杀手" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="科大讯飞.杀手" />
+      <module name="大厂算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="科大讯飞.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="序列排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="科大讯飞.序列排序" />
+      <module name="大厂算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="科大讯飞.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串提整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="科大讯飞.字符串提整数" />
+      <module name="大厂算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="科大讯飞.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_99乘法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test._99乘法" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application._99乘法" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.整数加加问题" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06bc0b14-a0e0-4979-9ea9-412e8a624344" name="Default Changelist" comment="" />
+      <created>1591243247690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591243247690</updated>
+      <workItem from="1591243251048" duration="2705000" />
+      <workItem from="1591420568606" duration="3187000" />
+      <workItem from="1591511718218" duration="3190000" />
+      <workItem from="1591531057859" duration="1203000" />
+      <workItem from="1591614409357" duration="1843000" />
+      <workItem from="1591699053048" duration="846000" />
+      <workItem from="1591781921904" duration="4666000" />
+      <workItem from="1591848731683" duration="13922000" />
+      <workItem from="1591951822020" duration="7255000" />
+      <workItem from="1592027785431" duration="12188000" />
+      <workItem from="1592129796044" duration="7769000" />
+      <workItem from="1592221847363" duration="3389000" />
+      <workItem from="1592382394114" duration="6958000" />
+      <workItem from="1592476370327" duration="5258000" />
+      <workItem from="1592738768764" duration="9625000" />
+      <workItem from="1592799590246" duration="17452000" />
+      <workItem from="1592889186503" duration="599000" />
+      <workItem from="1593056078619" duration="17084000" />
+      <workItem from="1593142950088" duration="14648000" />
+      <workItem from="1593237274583" duration="9494000" />
+      <workItem from="1593315545880" duration="9321000" />
+      <workItem from="1593402774815" duration="7670000" />
+      <workItem from="1593493218469" duration="20994000" />
+      <workItem from="1593572004377" duration="5213000" />
+      <workItem from="1593595657906" duration="3973000" />
+      <workItem from="1593671958461" duration="12232000" />
+      <workItem from="1593765325119" duration="5265000" />
+      <workItem from="1593777144001" duration="6177000" />
+      <workItem from="1593829661973" duration="3552000" />
+      <workItem from="1593853581336" duration="4880000" />
+      <workItem from="1593929147933" duration="6728000" />
+      <workItem from="1594010708338" duration="8257000" />
+      <workItem from="1594131664988" duration="2086000" />
+      <workItem from="1594180687064" duration="12081000" />
+      <workItem from="1594278421970" duration="3022000" />
+      <workItem from="1594442966957" duration="24817000" />
+      <workItem from="1595042023959" duration="8177000" />
+      <workItem from="1595132181662" duration="2707000" />
+      <workItem from="1595153806114" duration="6584000" />
+      <workItem from="1595245863784" duration="4333000" />
+      <workItem from="1595305975434" duration="11150000" />
+      <workItem from="1595386040736" duration="8410000" />
+      <workItem from="1595481460432" duration="2840000" />
+      <workItem from="1595564933618" duration="3644000" />
+      <workItem from="1595587614503" duration="3152000" />
+      <workItem from="1595645775365" duration="5494000" />
+      <workItem from="1595674333970" duration="305000" />
+      <workItem from="1595674659392" duration="2031000" />
+      <workItem from="1596166978149" duration="11627000" />
+      <workItem from="1596254579611" duration="8741000" />
+      <workItem from="1596343242035" duration="3326000" />
+      <workItem from="1596452170297" duration="3810000" />
+      <workItem from="1596775757206" duration="1592000" />
+      <workItem from="1597230298237" duration="6165000" />
+      <workItem from="1597311425013" duration="7751000" />
+      <workItem from="1597584962855" duration="4693000" />
+      <workItem from="1597643109565" duration="1674000" />
+      <workItem from="1597721252523" duration="7967000" />
+      <workItem from="1597826918723" duration="2400000" />
+      <workItem from="1598169067270" duration="1994000" />
+      <workItem from="1598248592523" duration="2987000" />
+      <workItem from="1598423516352" duration="2600000" />
+      <workItem from="1598508446666" duration="1850000" />
+      <workItem from="1598845506705" duration="8224000" />
+      <workItem from="1599461759870" duration="3932000" />
+      <workItem from="1599651372136" duration="4372000" />
+      <workItem from="1599894014077" duration="2981000" />
+      <workItem from="1599913053238" duration="2731000" />
+      <workItem from="1600325042662" duration="3984000" />
+      <workItem from="1602747484380" duration="1934000" />
+      <workItem from="1602834499337" duration="1270000" />
+      <workItem from="1605447968357" duration="830000" />
+      <workItem from="1605603046746" duration="2889000" />
+      <workItem from="1606015004434" duration="162000" />
+      <workItem from="1606015397074" duration="204000" />
+      <workItem from="1606015623814" duration="1167000" />
+      <workItem from="1606554210312" duration="369000" />
+      <workItem from="1606802145238" duration="80000" />
+      <workItem from="1606805908043" duration="914000" />
+      <workItem from="1606958515805" duration="303000" />
+      <workItem from="1607330588348" duration="2195000" />
+      <workItem from="1608607092726" duration="9612000" />
+      <workItem from="1608689842847" duration="5959000" />
+      <workItem from="1609064705377" duration="2462000" />
+      <workItem from="1609741124716" duration="5525000" />
+      <workItem from="1609914113815" duration="6183000" />
+      <workItem from="1610179667798" duration="5107000" />
+      <workItem from="1612000636412" duration="56000" />
+      <workItem from="1614848679078" duration="3222000" />
+      <workItem from="1616385372942" duration="365000" />
+      <workItem from="1616385805347" duration="1503000" />
+      <workItem from="1616659843447" duration="3536000" />
+      <workItem from="1617173256965" duration="895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/链表/_142_环形链表II.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/剑指offer/src/二刷/剑指Offer_68_I_二叉搜索树的最近公共祖先.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCode/src/动态规划/_121_买卖股票的最佳时机.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/大厂算法/src/小红书/Hello.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/大厂算法/src/哔哩哔哩/z0_1背包问题.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/大厂算法/src/哔哩哔哩/z0_1背包问题.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/剑指offer/src/com/qitong/TestClass.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/剑指offer/src/二刷/Test.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/大厂算法/src/小红书/Hello.java</url>
+          <line>21</line>
+          <properties class="小红书.Hello" method="dfs">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/LeetCode/src/动态规划/_121_买卖股票的最佳时机.java</url>
+          <line>22</line>
+          <properties class="动态规划._121_买卖股票的最佳时机" method="maxProfit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$Main.ic" NAME="Main Coverage Results" MODIFIED="1595671807924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>小红书.*</FILTER>
+    </SUITE>
+  </component>
+</project>
